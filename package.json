@@ -1,6 +1,6 @@
 {
   "name": "@wutiange/react-actions",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "react actions",
   "main": "lib/index.js",
   "author": "wutiange",
