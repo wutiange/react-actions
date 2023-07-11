@@ -1,0 +1,15 @@
+{
+  "name": "@wutiange/react-actions",
+  "version": "0.0.1",
+  "description": "react actions",
+  "main": "index.ts",
+  "author": "wutiange",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "build": "npx tsc"
+  }
+}
