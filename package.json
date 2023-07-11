@@ -2,11 +2,13 @@
   "name": "@wutiange/react-actions",
   "version": "0.0.1",
   "description": "react actions",
-  "main": "index.ts",
+  "main": "lib/index.js",
   "author": "wutiange",
   "license": "MIT",
   "private": false,
+  "peerDependencies": {},
   "devDependencies": {
+    "@types/react": "^18.2.14",
     "typescript": "^5.1.6"
   },
   "scripts": {

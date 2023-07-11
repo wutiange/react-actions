@@ -6,9 +6,10 @@
     "removeComments": true,
     "preserveConstEnums": true,
     "outDir": "lib",
+    "jsx": "react-jsx",
     "sourceMap": true,
     "esModuleInterop": true,
-    "target": "es6"
+    "target": "es2017"
   },
   "exclude": ["node_modules", "**/*.spec.ts"],
   "include": ["*.ts"]
