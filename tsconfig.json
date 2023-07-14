@@ -6,7 +6,7 @@
     "removeComments": true,
     "preserveConstEnums": true,
     "outDir": "lib",
-    "jsx": "react-jsx",
+    "jsx": "react",
     "sourceMap": true,
     "esModuleInterop": true,
     "target": "es2017"
